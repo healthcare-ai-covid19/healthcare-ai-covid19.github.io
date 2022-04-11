@@ -31,3 +31,8 @@ params:
 
   newsletter:
     enable: false
+
+  logo:
+    main: images/logo/logo.png
+    inverted: images/logo/logo.png
+    favicon: images/logo/logo.png
