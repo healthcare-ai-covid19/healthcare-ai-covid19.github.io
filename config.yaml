@@ -36,3 +36,6 @@ params:
     main: images/logo/logo.png
     inverted: images/logo/logo.png
     favicon: images/logo/logo.png
+  
+  visitorTracker:
+    enable: true
