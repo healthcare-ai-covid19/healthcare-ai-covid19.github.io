@@ -1,0 +1,46 @@
+# section information
+section:
+  name: Speakers
+  id: speakers
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# The speaker list
+speakers:
+- name: M. van der Schaar
+  logo: "/images/sections/speakers/mihaela_a.jpg"
+  summary: "M. van der Schaar"
+  url: "https://www.vanderschaar-lab.com/prof-mihaela-van-der-schaar/"
+
+- name: Alison Noble
+  logo: "/images/sections/speakers/Alison_Noble_a.jpg"
+  summary: "Alison Noble"
+  url: "https://eng.ox.ac.uk/people/alison-noble/"
+
+- name: Olga Troyanskaya
+  logo: "/images/sections/speakers/troyanskaya_a.jpg"
+  summary: "Olga Troyanskaya"
+  url: "https://function.princeton.edu/people/"
+
+- name: Laura Rosella
+  logo: "/images/sections/speakers/lrosella_a.jpg"
+  summary: "Laura Rosella"
+  url: "https://www.dlsph.utoronto.ca/faculty-profile/rosella-laura-c/"
+
+- name: JW Gichoya
+  logo: "/images/sections/speakers/judy-gichoya.jpg"
+  summary: "JW Gichoya"
+  url: "https://winshipcancer.emory.edu/bios/faculty/gichoya-judy.html"
+
+- name: Mark Dredze
+  logo: "/images/sections/speakers/mark.jpeg"
+  summary: "Mark Dredze"
+  url: "https://www.cs.jhu.edu/~mdredze/"
+
+- name: Ziad Obermeyer
+  logo: "/images/sections/speakers/Ziad-Obermeyer_a.jpg"
+  summary: "Ziad Obermeyer"
+  url: "http://ziadobermeyer.com/ "

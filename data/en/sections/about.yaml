@@ -1,0 +1,48 @@
+# section information
+section:
+  name: About
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+# your designation
+designation: Workshop
+# your company information
+company:
+  name: ICML2022.
+  url: "https://icml.cc/Conferences/2022/Schedule?showEvent=13469"
+
+# a summary about you
+summary: "In recent two years, the COVID-19 pandemic continues to disrupt the world, and has changed most aspects
+of human life. Healthcare AI has a mission to help humans to tackle the issues that are caused by COVID-19,
+e.g., COVID-19 vaccine related prediction, COVID-19 medical imaging diagnosis. With the development of
+the epidemic, the virus keeps mutating, and meanwhile the related research is also evolving. As a result,
+more and more understanding, observation, and policy are emerging. All of these factors bring new
+challenges and opportunities to scientific research, including Healthcare AI.
+The goal of this workshop is to bring together perspectives from multiple disciplines (e.g., Healthcare AI,
+Machine Learning, Medical Image ML, Bioinformatics, Genomics, Epidemiology, Public Health, Health Policy,
+Computer Vision, Deep Learning, Cognitive Science) to highlight major open questions and to identify
+collaboration opportunities to address outstanding challenges in the domain of COVID-19 related Healthcare
+AI.
+"
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Github
+  icon: "fab fa-github"
+  url: "https://github.com/pengkaizhu/test-hugo"
+
+# # your soft skills
+# # give the percentage between 50 to 100 with 5 intervals.
+# # currently supported colors: blue, yellow, pink, green, sky, orange
+# softSkills:
+# - name: Leadership
+#   percentage: 85
+#   color: blue
+# - name: Team Work
+#   percentage: 90
+#   color: yellow
+

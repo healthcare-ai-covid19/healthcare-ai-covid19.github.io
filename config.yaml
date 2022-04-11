@@ -1,0 +1,33 @@
+baseURL: https://healthcare-ai-covid19.github.io/
+
+languageCode: en-us
+title: The 1st Workshop on Healthcare AI and COVID-19
+theme: "toha"
+
+# Manage languages
+# For any more details, you can check the official documentation: https://gohugo.io/content-management/multilingual/
+languages:
+  en:
+    languageName: English
+    weight: 1
+
+# Control TOC depth
+markup:
+  tableOfContents:
+    startLevel: 2
+    endLevel: 6
+    ordered: false
+
+# Enable global emoji support
+enableEmoji: true
+
+# Site parameters
+params:
+  # GitHub repo URL of your site
+  gitRepo: https://github.com/healthcare-ai-covid19/healthcare-ai-covid19.github.io
+
+  # specify whether you want to show Table of Contents in reading page
+  enableTOC: true
+
+  newsletter:
+    enable: false

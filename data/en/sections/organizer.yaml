@@ -1,0 +1,41 @@
+# section information
+section:
+  name: Organizers
+  id: organizers
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# The organizer list
+speakers:
+- name: Peng Xu
+  logo: "/images/sections/speakers/peng.jpg"
+  summary: "Peng Xu"
+  url: "http://www.pengxu.net/"
+
+- name: Tingting Zhu
+  logo: "/images/sections/speakers/tingting-zhu.jpg"
+  summary: "Tingting Zhu"
+  url: "https://eng.ox.ac.uk/people/tingting-zhu/"
+
+- name: Pengkai Zhu
+  logo: "/images/sections/speakers/pengkai_zhu.jpg"
+  summary: "Pengkai Zhu"
+  url: "https://www.linkedin.com/in/pengkai-zhu-5816b5193/"
+
+- name: David Clifton
+  logo: "/images/sections/speakers/david-clifton-provided.jpg"
+  summary: "David Clifton"
+  url: "https://eng.ox.ac.uk/people/david-clifton/"
+
+- name: Danielle Belgrave
+  logo: "/images/sections/speakers/danille_headshot_a.jpg"
+  summary: "Danielle Belgrave"
+  url: "https://www.turing.ac.uk/people/guest-speakers/danielle-belgrave"
+
+- name: Yuanting Zhang
+  logo: "/images/sections/speakers/yuanting-zhang_a.jpg"
+  summary: "Yuanting Zhang"
+  url: "https://scholars.cityu.edu.hk/en/persons/yuanting-zhang(fcbe72e3-c0b5-4217-b177-653f710f4bed).html"

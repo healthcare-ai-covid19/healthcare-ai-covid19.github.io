@@ -1,0 +1,19 @@
+# some information about you
+name: "Healthcare AI and COVID-19"
+# nickname: "John"
+# greeting message before your name. it will default to "Hi! I am" if not provided
+# greeting: "Hi, I am"
+# TODO: a logo
+# image: "images/author/john.png"
+
+# give your some contact information. they will be used in the footer
+contactInfo:
+  email: "peng.xu@eng.ox.ac.uk"
+  # phone: "+0123456789"
+  github: PengBoXiangShang
+  # linkedin: johndoe
+
+# some summary about the worshop
+summary:
+  - Fight COVID-19 with AI
+  - COVID-19 related Healthcare AI
