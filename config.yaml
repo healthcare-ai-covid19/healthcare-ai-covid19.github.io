@@ -33,6 +33,6 @@ params:
     enable: false
 
   logo:
-    main: images/logo/logo.png
-    inverted: images/logo/logo.png
-    favicon: images/logo/logo.png
+    main: assets/images/logo/logo.png
+    inverted: assets/images/logo/logo.png
+    favicon: assets/images/logo/logo.png
