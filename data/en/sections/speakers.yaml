@@ -10,9 +10,9 @@ section:
 
 # The speaker list
 speakers:
-- name: M. van der Schaar
+- name: Mihaela van der Schaar
   logo: "/images/sections/speakers/mihaela_a.jpg"
-  summary: "M. van der Schaar"
+  summary: "Mihaela van der Schaar"
   url: "https://www.vanderschaar-lab.com/prof-mihaela-van-der-schaar/"
 
 - name: Alison Noble
@@ -30,9 +30,9 @@ speakers:
   summary: "Laura Rosella"
   url: "https://www.dlsph.utoronto.ca/faculty-profile/rosella-laura-c/"
 
-- name: JW Gichoya
+- name: Judy Wawira Gichoya
   logo: "/images/sections/speakers/judy-gichoya.jpg"
-  summary: "JW Gichoya"
+  summary: "Judy Wawira Gichoya"
   url: "https://winshipcancer.emory.edu/bios/faculty/gichoya-judy.html"
 
 - name: Mark Dredze
