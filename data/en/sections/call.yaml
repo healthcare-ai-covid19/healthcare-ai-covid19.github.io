@@ -9,10 +9,13 @@ section:
 
 scope_title: Call for Paper
 
-aim: "The goal of this workshop is to bring together perspectives from multiple disciplines (e.g., Healthcare AI, Machine Learning, Medical Image ML, Bioinformatics, Genomics, Epidemiology, Public Health, Health Policy, Computer Vision, Deep Learning, Cognitive Science) to highlight major open questions and to identify collaboration opportunities to address outstanding challenges in the domain of COVID-19 related Healthcare AI."
+# aim: "The goal of this workshop is to bring together perspectives from multiple disciplines (e.g., Healthcare AI, Machine Learning, Medical Image ML, Bioinformatics, Genomics, Epidemiology, Public Health, Health Policy, Computer Vision, Deep Learning, Cognitive Science) to highlight major open questions and to identify collaboration opportunities to address outstanding challenges in the domain of COVID-19 related Healthcare AI."
+
+poster:
+  url: https://github.com/healthcare-ai-covid19/healthcare-ai-covid19.github.io/blob/source/assets/images/poster/poster.png
 
 scope: "This workshop will welcome contributions on a broad topic scope of the COVID-19 related Healthcare AI, in terms of but not limited to: new datasets, new methods, new reviews/viewpoints/comments, new health issues, new policy, new observations, etc. Meanwhile, the general Healthcare AI topics are also welcomed."
 
 submission:
-  track_1: "The unpublished papers upon acceptance will be included in the proceedings of ICML 2022, which will be handled electronically via the workshop’s CMT Website, and undergo standard double-blind peer-review. Length, format, and template should follow the ICML 2022 Submission Guidelines."
+  track_1: "The unpublished papers upon acceptance will be included in the proceedings of ICML 2022, which will be handled electronically via the workshop’s CMT Website: https://cmt3.research.microsoft.com/HealthcareAICOVID192022, and undergo standard double-blind peer-review. Length, format, and template should follow the ICML 2022 Submission Guidelines."
   track_2: "We also welcome submissions of abstract, poster, work-in-progress, completed work, papers already accepted in other venues, etc."
