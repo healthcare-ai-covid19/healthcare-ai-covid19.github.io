@@ -12,7 +12,7 @@ scope_title: Call for Paper
 # aim: "The goal of this workshop is to bring together perspectives from multiple disciplines (e.g., Healthcare AI, Machine Learning, Medical Image ML, Bioinformatics, Genomics, Epidemiology, Public Health, Health Policy, Computer Vision, Deep Learning, Cognitive Science) to highlight major open questions and to identify collaboration opportunities to address outstanding challenges in the domain of COVID-19 related Healthcare AI."
 
 poster:
-  url: https://github.com/healthcare-ai-covid19/healthcare-ai-covid19.github.io/blob/source/assets/images/poster/poster.png
+  url: https://raw.githubusercontent.com/healthcare-ai-covid19/healthcare-ai-covid19.github.io/source/assets/images/poster/poster.png
 
 scope: "This workshop will welcome contributions on a broad topic scope of the COVID-19 related Healthcare AI, in terms of but not limited to: new datasets, new methods, new reviews/viewpoints/comments, new health issues, new policy, new observations, etc. Meanwhile, the general Healthcare AI topics are also welcomed."
 
