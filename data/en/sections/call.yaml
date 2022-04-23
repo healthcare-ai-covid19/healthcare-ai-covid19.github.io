@@ -19,3 +19,8 @@ scope: "This workshop will welcome contributions on a broad topic scope of the C
 submission:
   track_1: "The unpublished papers upon acceptance will be included in the proceedings of ICML 2022, which will be handled electronically via the workshop’s CMT Website: https://cmt3.research.microsoft.com/HealthcareAICOVID192022, and undergo standard double-blind peer-review. Length, format, and template should follow the ICML 2022 Submission Guidelines."
   track_2: "We also welcome submissions of abstract, poster, work-in-progress, completed work, papers already accepted in other venues, etc."
+
+dates:
+  submission: May 31, 2022
+  accept: June 6, 2022
+  camera: June 16, 2022
