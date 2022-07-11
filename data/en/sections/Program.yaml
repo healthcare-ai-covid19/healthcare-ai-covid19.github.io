@@ -22,19 +22,15 @@ degrees:
     - time: 8:05 - 8:50
       agenda: Keynote 1 by Mihaela van der Schaar
     - time: 8:50 - 9:35
-      agenda: Keynote 2 by Alison Noble
+      agenda: Keynote 2 by Mark Dredze
     - time: 9:35 - 10:20
-      agenda: Keynote 3 by Mark Dredze
+      agenda: Keynote 3 by Judy Wawira Gichoya
     - time: 10:20 - 10:30
-      agenda: break & demo session
+      agenda: break
     - time: 10:30 - 11:15
-      agenda: Keynote 4 by Judy Wawira Gichoya
-    - time: 11:15 - 11:30
-      agenda: oral paper presentation 1
-    - time: 11:30 - 11:45
-      agenda: oral paper presentation 2
-    - time: 11:45 - 12:00
-      agenda: oral paper presentation 3
+      agenda: Keynote 4 by Olga Troyanskaya
+    - time: 11:15 - 12:00
+      agenda: Keynote 5 by Laura Rosella
 - name: 
   institution:
     name: Noon Break
@@ -45,26 +41,14 @@ degrees:
     showGrades: true
     collapseAfter: 15
     courses:
-    - time: 13:00 - 13:15
-      agenda: oral paper presentation 4
-    - time: 13:15 - 13:30
-      agenda: oral paper presentation 5
-    - time: 13:30 - 13:45
-      agenda: oral paper presentation 6
-    - time: 13:45 - 14:00
-      agenda: oral paper presentation 7
-    - time: 14:00 - 14:30
-      agenda: break & demo session
-    - time: 14:30 - 15:15
-      agenda: Keynote 5 by by Olga Troyanskaya
-    - time: 15:15 - 16:00
-      agenda: Keynote 6 by Laura Rosella
-    - time: 16:00 - 16:45
-      agenda: Keynote 7 by Ziad Obermeyer
-    - time: 16:45 - 17:45
-      agenda: panel discussion for open problem
-    - time: 17:45 - 18:00
-      agenda: closing remark
+    - time: 13:00 - 13:45
+      agenda: Keynote 6 by Ziad Obermeyer
+    - time: 13:45 - 16:40
+      agenda: Track 1 Paper Presentation
+    - time: 16:40 - 17:55
+      agenda: Track 2 Paper Presentation
+    - time: 17:55 - 18:00
+      agenda: Closing remark
 
 summary: "Comming soon...
 "
