@@ -29,6 +29,16 @@ collaboration opportunities to address outstanding challenges in the domain of C
 AI.
 "
 
+proceeding:
+  url: https://proceedings.mlr.press/v184/
+  name: healthcare-ai
+  content: "Workshop on Healthcare AI and COVID-19"
+
+related:
+  name: CCAIM Summer School
+  content: This is the world's first Healthcare ML summer school! Please subscribe and attend!
+  url: https://ccaim.cam.ac.uk/summer-school
+
 # your social links
 # give as many as you want. use font-awesome for the icons.
 socialLinks:

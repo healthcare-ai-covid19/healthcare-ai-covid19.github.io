@@ -28,6 +28,12 @@ speakers:
   affiliation: AWS AI Lab
   url: "https://www.linkedin.com/in/pengkai-zhu-5816b5193/"
 
+- name: Tianrui Chen
+  logo: "/images/sections/speakers/tianrui_chen_1.jpeg"
+  summary: "Tianrui Chen"
+  affiliation: Boston University
+  url: "https://www.linkedin.com/in/trchen/"
+
 - name: David Clifton
   logo: "/images/sections/speakers/david-clifton-provided.jpg"
   summary: "David Clifton"
